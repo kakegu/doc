@@ -2,6 +2,8 @@
 .. _fig_0601:
 .. figure:: http://explorer.trustnote.org/img/logo.png
 
+:ref:`fig_0601`
+
 hello
 =====
 
