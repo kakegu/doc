@@ -1,6 +1,6 @@
 
 .. _fig_0601:
-.. figure:: http://www.openerp-china.org/templates/image/openerp-logo.png
+.. figure:: http://explorer.trustnote.org/img/logo.png
 
 hello
 =====
