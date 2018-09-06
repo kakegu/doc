@@ -1,4 +1,7 @@
 
+.. _fig_0601:
+.. figure:: http://www.openerp-china.org/templates/image/openerp-logo.png
+
 hello
 =====
 
